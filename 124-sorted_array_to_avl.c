@@ -1,5 +1,5 @@
 #include "binary_trees.h"
-#include <stdlib.h>
+
 avl_t *sorted_array_to_avl(int *array, size_t size);
 avl_t *sorted_array_to_avl_helper(int *array, size_t start, size_t end);
 
