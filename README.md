@@ -325,6 +325,6 @@ The value is ignored if it is already present in the tree.
 
 ° Searching for a node in a binary heap of size n.
 
-• Authors ✒️
+• Author ✒️
 
 Donald Mwanga <donalmwanga33@gmail.com>
